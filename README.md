@@ -1,5 +1,7 @@
+
 # Seoul-Bike-Sharing-Prediction
 
+![wde](https://user-images.githubusercontent.com/102940106/183284562-01561a10-94a2-488b-9103-cbcfcda0a70d.jpg)
 
 The objective of this work is to predict the trip duration of rental bikes in the Seoul Bike sharing system. The data used include weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
 
