@@ -15,8 +15,13 @@ Feature engineering is done to extract additional features from the data. Four s
 * (e) Extreme Gradient Boosting (XGBoost)
 
 
-**-----------------------------------------------------------------------------------------------------------------------------------------------**
 # Conclusion
+Predicting the number of bikes rented per hour in Seoul, South Korea.
+Performed EDA on the dataset and found features 'Hour', 'Temp.' and 'Season' to be most important. Also performed Feature Engineering to extract some features.
+Used many regression algorithms for predicting the number of bikes like Linear Regression, Decision Tree, Random Forest and XGBoost etc.
+Also performed hyperparameter tuning on models to improve them further.
+Best performing models after tuning, R2-score of Random Forest: 92.25%, XGBoost: 94.53%, CatBoost: 94.46%.
+
 The analysis is done with Seoul Bike data. Six regression techniques Linear Regression, Polynomial regression, Decision Tree, Random Forest, Gradient Boosting, XGB are used to predict the trip duration.This statistical data analysis shows interesting outcomes in prediction methods and also in an exploratory analysis.
 
 The experimental results prove that the XGB model predicts best the trip duration with the highest R2 and with less error rate compared to Linear Regression, Decision Tree, Random Forest, Gradient Boosting.
